@@ -4,13 +4,13 @@
 
 ## Contents ##
 
-- [Objective]
-- [User-Stories]
-- [User-Experience]
+- Objective
+- User-Stories
+- User-Experience
 
 ## Objective
 
-The purpose of this project is to create a website for UFC fighter Jon Jones. It will allow users to purchase apparel, view some, not all of Jones' ufc fights through video content, keep up to date with current Jon Jones news and have links to his social media.
+The purpose of this project is to create a website for **UFC fighter Jon Jones**. It will allow users to purchase apparel, view some, not all of Jones' ufc fights through video content, keep up to date with current Jon Jones news and have links to his social media.
 
 ## User Stories
 
@@ -42,12 +42,11 @@ The purpose of this project is to create a website for UFC fighter Jon Jones. It
 - Have each webpage very simple and easy to the eye with design 
 
 ## 3. Structure
-- Have 3 webpages; Home, Shop, Contact and a UFC page that displays Jones' record through text, images and video content
 - Provide the right amount of media content in the right areas to serve the purpose of the webpage 
 - Have a consistent navigation menu throughout all webpages
 
 ## 4. Skeleton
-- Wireframe
+- Wireframe (Balsamiq)
 - Set a fixed navigation menu
 - Have a **Home, Shop, UFC and Contact page**
 - Footer section that has links to Jon Jone's social accounts
@@ -60,13 +59,32 @@ The purpose of this project is to create a website for UFC fighter Jon Jones. It
 - Have a black/red/white theme that resembles the UFC and depicts Jon Jones the fighter
 
 #### Typography
-- Helvetica font family: Nexabold for content in the header section and Nexalight for content in the body section
+**Helvetica font family**
+- Header:Nexabold
+- Body: Nexalight
 
 #### Images
-- Display an even amount of images that correlates with the overall theme. Add images that will match the section of the webpage. 
+- Display an even amount of images that correlates with the overall theme. Add images that will match the section of the webpage
 
-#### Video 
-- Include
+### Features
 
+- HTML/CSS and Bootstrap 
+- Footer section that includes Social links
+- Video and images content 
 
+### Features that will added in the future:
 
+- ecommerce
+- Animations 
+
+### Technologies 
+
+# Languages
+- HTML
+- CSS
+
+# Libraries
+- Git
+- Bootstrap
+- Font-Awesome
+- Google fonts
