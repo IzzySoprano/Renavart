@@ -6,7 +6,10 @@
 
 - Objective
 - User-Stories
-- User-Experience
+- User Experience
+- Testing
+- Deployment
+- Credits
 
 ## Objective
 
@@ -46,14 +49,14 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 - Have a consistent navigation menu throughout all webpages
 
 ## 4. Skeleton
-- Wireframe (Balsamiq)
+- Wireframe
 - Set a fixed navigation menu
 - Have a **Home, Shop, UFC and Contact page**
 - Footer section that has links to Jon Jone's social accounts
 
 ## 5. Surface
 
-### Design choices
+### Design
 
 #### Colours
 - Have a black/red/white theme that resembles the UFC and depicts Jon Jones the fighter
@@ -65,6 +68,10 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 
 #### Images
 - Display an even amount of images that correlates with the overall theme. Add images that will match the section of the webpage
+
+### Wireframe
+
+
 
 ### Features
 
