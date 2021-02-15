@@ -1,7 +1,6 @@
 # Jon Jones
 
 ![](https://bucket.mn2s.com/wp-content/uploads/2019/04/18175044/Jon-Jones-mn2s.png)
-# Contents ##
 
 ## Contents ##
 
