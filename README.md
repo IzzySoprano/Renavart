@@ -1,8 +1,7 @@
 # Jon Jones
 
-![image]{assets/images/https://bucket.mn2s.com/wp-content/uploads/2019/04/18175044/Jon-Jones-mn2s.png}
-
-## Contents ##
+![](https://bucket.mn2s.com/wp-content/uploads/2019/04/18175044/Jon-Jones-mn2s.png)
+# Contents ##
 
 - Objective
 - User-Stories
@@ -10,11 +9,11 @@
 
 ## Objective
 
-The purpose of this project is to create a website for **UFC fighter Jon Jones**. It will allow users to purchase apparel, view some, not all of Jones' ufc fights through video content, keep up to date with current Jon Jones news and have links to his social media.
+The purpose of this project is to create a website for **UFC fighter Jon Jones**. It will allow users to purchase apparel, view his UFC fights through video content, keep up to date with current Jon Jones news and have links to his social media.
 
 ## User Stories
 
-- A user should be able to know who Jon Jones is understand his background and know his profession
+- A user should be able to know who Jon Jones is and understand his background and know his profession
 - A user should be able to purchase Jon Jones merchandise 
 - A user should be to get in touch with the support team regarding any order issues
 - A user should be able to view Jones' fighting record 
@@ -68,7 +67,6 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 
 ### Features
 
-- HTML/CSS and Bootstrap 
 - Footer section that includes Social links
 - Video and images content 
 
@@ -79,12 +77,26 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 
 ### Technologies 
 
-# Languages
-- HTML
-- CSS
+# Languages 
+- ![image](https://camo.githubusercontent.com/869a3873c8a46e110dcbb9ab9070e2a60f10e4f142bb5080aec4ebdeb7a59053/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6a696d6c796e782f696d6167652f75706c6f61642f76313539333532393431392f4c6f676f732f68746d6c352d35305f67726f6f366f2e706e67) HTML
+- ![Image](https://res.cloudinary.com/jimlynx/image/upload/v1593529419/Logos/CSS3-50_slrv0x.png)CSS 
 
-# Libraries
+# Frameworks and Libraries used 
 - Git
-- Bootstrap
+- ![Image](https://camo.githubusercontent.com/da1323f76b613b871461c2cb144fc9d06907414800af9486209511fcbbac272f/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6a696d6c796e782f696d6167652f75706c6f61642f76313539333532383737362f4c6f676f732f426f6f7473747261702d35305f6b68706a35372e706e67)Bootstrap
 - Font-Awesome
 - Google fonts
+
+### Testing
+
+
+
+### Deployment
+
+
+
+### Credits
+
+Mentor
+Slack community
+Stack overoverflow 
