@@ -1,13 +1,9 @@
 # Jon Jones
 
-<<<<<<< HEAD
 ![](https://bucket.mn2s.com/wp-content/uploads/2019/04/18175044/Jon-Jones-mn2s.png)
 # Contents ##
-=======
-![image](https://bucket.mn2s.com/wp-content/uploads/2019/04/18175044/Jon-Jones-mn2s.png)
 
 ## Contents ##
->>>>>>> ba404ee5013124437f2b981ebe109c361402189f
 
 - Objective
 - User-Stories
