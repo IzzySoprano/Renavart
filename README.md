@@ -26,17 +26,20 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 
 ### User Experience (UX)
 ## 1. Strategy
--
+- A simple and easy to use UX that allows users to navigate through the different webpages with ease
 
 ## Project Goals
 - Allow users to purchase Jon Jones merchandise and apparel
 - Allow users to get in touch with order issues
-- Allow users to view content through images and video 
+- Allow users to view media content through images and video 
 - Create a reponsive website that is accessible across dektop, tablet and mobile.
 
 
 ### Customer Goals
-- 
+- Mobile first
+- Provide a Contact page to allow users to get in touch with order issues
+- Include Social links to JJ social acocunts
+- Provide a consistent theme
  
 
 ## 2. Scope 
@@ -62,6 +65,7 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 - Have a black/red/white theme that resembles the UFC and depicts Jon Jones the fighter
 
 #### Typography
+
 **Helvetica font family**
 - Header:Nexabold
 - Body: Nexalight
