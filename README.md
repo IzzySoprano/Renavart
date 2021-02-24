@@ -1,6 +1,6 @@
 # Jon Jones
 
-![](https://bucket.mn2s.com/wp-content/uploads/2019/04/18175044/Jon-Jones-mn2s.png)
+![image](https://bucket.mn2s.com/wp-content/uploads/2019/04/18175044/Jon-Jones-mn2s.png)
 
 ## Contents ##
 
@@ -24,7 +24,7 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 - A user should have access to Jones' social links
 - The user should have access to the latest Jon Jones news
 
-### User Experience (UX)
+# User Experience (UX)
 ## 1. Strategy
 - A simple and easy to use UX that allows users to navigate through the different webpages with ease
 
@@ -35,7 +35,7 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 - Create a reponsive website that is accessible across dektop, tablet and mobile.
 
 
-### Customer Goals
+## Customer Goals
 - Mobile first
 - Provide a Contact page to allow users to get in touch with order issues
 - Include Social links to JJ social acocunts
@@ -64,18 +64,19 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 #### Colours
 - Have a black/red/white theme that resembles the UFC and depicts Jon Jones the fighter
 
+![image](assets/img/palette.png)
+
 #### Typography
 
-**Helvetica font family**
-- Header:Nexabold
-- Body: Nexalight
+**Oswald font family**
+- Header:
+- Body:
 
 #### Images
-- Display an even amount of images that correlates with the overall theme. Add images that will match the section of the webpage
+- Display an even amount of images that correlates with the overall theme.
 
 ### Wireframe
-
-
+-Balsamiq
 
 ### Features
 
@@ -89,13 +90,13 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 
 ### Technologies 
 
-# Languages 
-- ![image](https://camo.githubusercontent.com/869a3873c8a46e110dcbb9ab9070e2a60f10e4f142bb5080aec4ebdeb7a59053/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6a696d6c796e782f696d6167652f75706c6f61642f76313539333532393431392f4c6f676f732f68746d6c352d35305f67726f6f366f2e706e67) HTML
-- ![Image](https://res.cloudinary.com/jimlynx/image/upload/v1593529419/Logos/CSS3-50_slrv0x.png)CSS 
+#### Languages 
+- HTML
+- CSS 
 
-# Frameworks and Libraries used 
+### Frameworks and Libraries used 
 - Git
-- ![Image](https://camo.githubusercontent.com/da1323f76b613b871461c2cb144fc9d06907414800af9486209511fcbbac272f/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6a696d6c796e782f696d6167652f75706c6f61642f76313539333532383737362f4c6f676f732f426f6f7473747261702d35305f6b68706a35372e706e67)Bootstrap
+- Bootstrap
 - Font-Awesome
 - Google fonts
 
