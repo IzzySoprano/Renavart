@@ -52,7 +52,7 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 - Have a consistent navigation menu throughout all webpages
 
 ## 4. Skeleton
-- Wireframe
+- [Wireframes]()
 - Set a fixed navigation menu
 - Have a **Home, Shop, UFC and Contact page**
 - Footer section that has links to Jon Jone's social accounts
