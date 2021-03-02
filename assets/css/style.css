@@ -44,20 +44,45 @@ h1 {
 
 
 
-
-
-
 /* Footer */
 
-.social a {
-    height: 50px;
-    width: 50px;
-    padding-inline: 0;
-    padding: 0;
-    justify-content: center;
-    margin: 0 20px;
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    flex-direction: row;
+footer {
+    height: 80px;
 }
+
+
+footer h2 {
+    color: #fafafa;
+    margin: 5px 10px;
+}
+
+footer i {
+    margin: 5px 10px;
+    font-size: 150%;
+}
+
+footer li {
+    list-style: none;
+}
+
+
+/* .social a {
+    height: 100px;
+    width: 100px;
+    font-size: 100px;
+}
+
+.list-inline {
+    font-size: 18px;
+    padding-bottom: 20px;
+
+}
+
+.fab fa-instagram {
+    font-size: 100%;
+}
+
+.fab fa-twitter {
+    box-sizing:100%;
+
+} */
