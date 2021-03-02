@@ -100,8 +100,13 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 - Font-Awesome
 - Google fonts
 
+|-----------------------------------------------------------------------------|
+
 ### Testing
 
+### Issues Faced
+- Wasn't familiar with Git and how to commit at first, but after reaching out to the Slack community, I've come to understand it and how it works.
+- Have trouble understanding how to section content using the Bootstrap Grid System.
 
 
 ### Deployment
