@@ -1,4 +1,4 @@
-/*@import */
+/*@import*/
 
 
 * {
@@ -17,13 +17,33 @@ h1 {
     text-align: center;
 }
 
+/* Nav-Bar */
+
+.navbar-brand {
+    font-family: "Julius Sans One"
+}
+
+a nav-link {
+    font-family: "Julius Sans One"
+}
+
+/* Title */
+
+#title{
+    background-color:;
+}
+
+.font-style {
+    font-family: "Julius Sans One-light"
+}
 
 #home-section{
     min-height: 80vh;
 }
 
 .hero-image {
-    width: 100%;
+    width: 500x;
+    height: 500px;
     box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.2)
 }
 
