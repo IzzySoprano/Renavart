@@ -106,8 +106,7 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 
 ### Issues Faced
 - Wasn't familiar with Git and how to commit at first, but after reaching out to the Slack community, I've come to understand it and how it works.
-- Have trouble understanding how to section content using the Bootstrap Grid System.
-
+- Have trouble understanding how to section content using the Bootstrap Grid System
 
 ### Deployment
 
@@ -116,5 +115,5 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 ### Credits
 
 Mentor
-Slack community
+Slack community - A massive credit goes to Jim Lynx for helping me understand things
 Stack overoverflow 
