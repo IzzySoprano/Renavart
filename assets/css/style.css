@@ -11,76 +11,136 @@ body {
     font-size: 1rem;
 }
 
-h1 {
-    margin-top: 30px;
-    text-align: center;
-}
-
-.font-s {
-    font-family: 'Orbitron', sans-serif;
-    font-size: 100px;
-    font-weight: regular;
-}
-
 /* Nav-Bar */
 
 .navbar-brand {
     font-family: "Julius Sans One"
 }
 
-/* Home Page */
+.JJ-logo {
+    height: 200px;
+    width: 200px;
+}
+
+-------------------------------------------------------------/* Home Page */-----------------------------------------------------------------------
 /* Title */
 
 #title{
     background-color:;
 }
 
-.font-style {
-    font-family: "Julius Sans One-light"
-}
-
 #home-section{
     min-height: 80vh;
 }
 
-.hero-image {
-    width: 500x;
-    height: 500px;
-    box-shadow: 4px 4px 12px 0px rgba(0, 0, 0, 0.2)
-}
-
-.responsive-container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-}
-
-.responsive-iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-}
-
-/* UFC Page */
-
-.video-wrapper {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-}
-
-.image-drawing {
-    height: ;
-    width: 100%;
-    max-width: 660px;
-}
+/* Text */
 
 .signature {
     font-family: 'Homemade Apple', cursive;
 }
+
+.font-style {
+    font-family: "Julius Sans One-light"
+}
+
+.responsive-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-top: 56.25%;}
+
+----------------------------------------------------------------/* UFC Page */----------------------------------------------------------------------
+
+/* Video Section */
+
+.responsive-iframe {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-top: 56.25%;
+}
+
+/* Image slideshow */
+
+/* body {
+    margin: 0;
+    height: 100vh;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: red;
+} */
+
+.slider {
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.slides {
+    width: 500%;
+    height: 500px;
+    display: flex;
+}
+
+.slides input {
+    display: none;
+}
+
+.slide {
+    width:20%;
+    transition:2s;
+}
+
+.slide img {
+    width: 800px;
+    height: 500px;
+}
+
+/* Manual Navigation Styling */
+
+.navigation-manual {
+    position: absolute;
+    width: 800px;
+    margin-top: -40px;
+    display: flex;
+    justify-content: center;
+}
+
+.manual-btn {
+    border: 2px solid red;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.manual-btn:not(:last-child){
+    margin-top: 40px;
+}
+
+.manual-btn:hover {
+    background: orange;
+}
+
+#radio1: checked ~ .first{
+    margin-left:0;
+}
+
+#radio2: checked ~ .first{
+    margin-left:-20%;
+}
+
+#radio3: checked ~ .first{
+    margin-left:-40%;
+}
+
+#radio4: checked ~ .first{
+    margin-left:-60%;
+}
+
 
 /* UFC Record Table */
 table {
@@ -96,9 +156,14 @@ tr:nth-child(even){
 }
 
 
-/*Shop */
+----------------------------------------------------------------------/*Shop */-------------------------------------------------------------------------
 
-/*Contact */
+
+---------------------------------------------------------------------/*Contact */------------------------------------------------------------------------------------------------------
+
+.input-group-text {
+    word-spacing: 5px;
+}
 
 /* Footer */
 
@@ -107,7 +172,7 @@ footer {
 }
 
 footer h2 {
-    color: #fafafa;
+    color: #black;
     margin: 5px 10px;
 }
 
@@ -119,25 +184,3 @@ footer i {
 footer li {
     list-style: none;
 }
-
-
-/* .social a {
-    height: 100px;
-    width: 100px;
-    font-size: 100px;
-}
-
-.list-inline {
-    font-size: 18px;
-    padding-bottom: 20px;
-
-}
-
-.fab fa-instagram {
-    font-size: 100%;
-}
-
-.fab fa-twitter {
-    box-sizing:100%;
-
-} */
