@@ -10,10 +10,13 @@
         integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/style.css">
 
-
     <!-- Googgle Fonts -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"
         integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+
+    <!-- Bootstrap stylesheet -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 
     <!-- Bootstrap scripts -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -25,7 +28,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
         integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
         crossorigin="anonymous"></script>
-        
+
     <title>Jon Jones official website</title>
 </head>
 
@@ -61,13 +64,56 @@
 
             <h3>Order Issues
                 <i class="fas fa-question"></i>
-                </h1>
+            </h3>
 
-                <h3>Contact </h3>
+            <h3>Product information
+                <i class="fas fa-info"></i>
+            </h3>
 
-                <h3>Product information
-                    <i class="fas fa-info"></i>
-                </h3>
+            <h3>Submit a Request </h3>
+            <form>
+                <div class="form-group">
+                    <label for="exampleFormControlInput1">Your Email Address*</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput1">
+                </div>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">First name</span>
+                    </div>
+                    <input type="text" aria-label="First name" class="form-control">
+                </div>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">Order ID Number*</span>
+                    </div>
+                    <input type="text" aria-label="First name" class="form-control">
+                </div>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">Product Name*</span>
+                    </div>
+                    <input type="text" aria-label="First name" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleFormControlSelect1">What is the nature of your enquiry?*</label>
+                    <select class="form-control" id="exampleFormControlSelect1">
+                        <option>General enquiry</option>
+                        <option>My payment is being declined</option>
+                        <option>I have not recieved my confirmation email </option>
+                        <option>There is a fault with my Product</option>
+                        <option>My payment is being declined</option>
+                        <option>I have recieved the wrong item</option>
+                        <option>My tracking number is not working</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Your Description*</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                </div>
+                <button type="button" class="btn btn-dark">Submit</button>
+            </form>
         </div>
     </section>
 </body>
