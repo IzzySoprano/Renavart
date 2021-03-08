@@ -13,6 +13,10 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=M+PLUS+Rounded+1c&family=Montserrat:wght@600&family=Open+Sans&family=Ubuntu:wght@700&display=swap"
+        rel="stylesheet">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"
@@ -38,7 +42,7 @@
         <!---Nav Bar----->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand" href="#">
-                <img class="JJ-logo" src="assets/img/JJ-logo.png" alt="Jon Jones headshot">
+                <img class="logo" src="assets/img/JJ-logo.png" alt="Jon Jones headshot">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -67,7 +71,7 @@
 
                 <!-- hero image row  -->
                 <div class="row">
-                    <img class="hero-image" src="assets/img/jonjones_headshot.png" alt="Jon Jones headshot">
+                    <img class="hero-image" src="assets/img/JJ-headshot.png" alt="Jon Jones headshot">
                 </div>
             </div>
 
@@ -108,8 +112,8 @@
                     <div class="col-lg-6">
                         <h3>Highlights</h3>
                         <div class="responsive-container">
-                            <iframe class="responsive-iframe"  height="500px" width="500px" src="https://www.youtube.com/embed/VXvg4ioc0wQ"
-                                frameborder="0"
+                            <iframe class="responsive-iframe" height="auto" width="100%"
+                                src="https://www.youtube.com/embed/VXvg4ioc0wQ" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen></iframe>
                         </div>
@@ -119,16 +123,28 @@
 
         <section>
             <div class="image-drawing">
-                <p> “Believe in yourself. Believe in your heart and once you get there, don’t slow down” -
-                <div class="signature"> Jon Jones </p>
-                </div>
-                <img src="assets/img/Jon Jones drawing.jpg" class="responsive" height="auto" width="50%" alt="JJ_drawing">
+                <img src="assets/img/JJ-drawing.jpg" class="responsive" height="auto" width="50%" alt="JJ_drawing">
+            </div>
+            <p> “Believe in yourself. Believe in your heart and once you get there, don’t slow down” -
+            <div class="signature"> Jon Jones </p>
             </div>
         </section>
 
-        <!-- Footer -->
+        <form>
+            <div class="form-group">
+                <h1> NEWSLETTER</h1>
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
+                    else.</small>
+            </div>
 
-        <footer class="bg-dark">
+            <button type="button" class="btn btn-danger btn-lg">Subscribe</button>
+
+        </form>
+
+        <!-- Footer -->
+        <footer class="bg-light">
             <div class="container py-3">
                 <div class="row">
                     <div class="col d-flex align-items-center justify-content-around w-75 mx-auto">
