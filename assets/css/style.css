@@ -67,8 +67,16 @@ body {
     padding-top: 56.25%;
 }
 
-/* Carousel */
+/* Parallax */
 
+
+.parallax {
+    background-image: url("assets/img/JJ-Drawing2.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 500px;
+}
 
 
 /* UFC Record Table */
@@ -96,24 +104,7 @@ tr:nth-child(even){
 
 ---------------------------------------------/* Footer */------------------------------
 
-footer {
-    clear: both;
-    height: 300px;
-    width: auto;
-    text-align: center;
-    margin: 0px 0px 0px 0px;
-    background-color: white;
-}
-
-footer h2 {
-    color: #black;
-}
-
-footer i {
-    margin: 5px 10px;
-    font-size: 150%;
-}
-
-footer li {
-    list-style: none;
-}
+.footer {
+    height: 100px;
+    justify-content: center;
+    align-items: center;
