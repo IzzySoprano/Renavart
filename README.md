@@ -2,6 +2,8 @@
 
 ![image](https://bucket.mn2s.com/wp-content/uploads/2019/04/18175044/Jon-Jones-mn2s.png)
 
+Live Site https://izzysoprano.github.io/Jon-Jones/
+
 ## Contents ##
 
 - Objective
@@ -111,6 +113,8 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 - Added a CSS Animation section to my UFC page, however, it's not fully embedded and responsive.
 
 ### Deployment
+
+GitHub Pages ~(https://izzysoprano.github.io/Jon-Jones/)
 
 
 ### Credits
