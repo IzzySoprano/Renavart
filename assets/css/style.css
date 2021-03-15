@@ -46,10 +46,6 @@ body {
     font-family: 'Homemade Apple', cursive;
 }
 
-/* .font-style {
-    font-family: "Julius Sans One-light"
-} */
-
 .responsive-container {
     position: relative;
     width: 100%;
@@ -81,7 +77,7 @@ body {
 
 /* UFC Record Table */
 table {
-    width: 600px;
+    width: 800px;
 }
 
 table, th, td {
