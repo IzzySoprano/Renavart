@@ -111,15 +111,13 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 - Wasn't familiar with Git and how to commit at first, but after reaching out to the Slack community, I've come to understand it and how it works.
 - Have trouble understanding how to section content using the Bootstrap Grid System
 - Added a CSS Animation section to my UFC page, however, it's not fully embedded and responsive.
+- After my first initial deployment, the links were'nt working responsibly 
 
 ### Deployment
 
 GitHub Pages ~(https://izzysoprano.github.io/Jon-Jones/)
 
-
 ### Credits
 
 Mentor
-Slack community - A massive credit goes to Jim Lynx who throughly guided me
-Stack overoverflow 
-https://support.anthonyjoshua.com/hc/en-us/requests/new
+Slack community
