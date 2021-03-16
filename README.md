@@ -20,11 +20,11 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 ## User Stories
 
 - A user should be able to know who Jon Jones is and understand his background and know his profession
-- A user should be able to purchase Jon Jones merchandise 
 - A user should be to get in touch with the support team regarding any order issues
 - A user should be able to view Jones' fighting record 
 - A user should have access to Jones' social links
 - The user should have access to the latest Jon Jones news
+- The user should be able to access media content on all devices 
 
 # User Experience (UX)
 ## 1. Strategy
