@@ -60,75 +60,93 @@
         </div>
     </nav>
 
-    <div class="input-group mb-3">
-        <input type="text" class="form-control"
-            aria-describedby="basic-addon2">
-        <div class="input-group-append">
-            <span class="input-group-text" id="basic-addon2">Search</span>
-        </div>
+    <div class="input-group justify-content-end d-flex flex-row-reverse">
+        <form class="form-line">
+            <input class="form-control" type="search"
+                placeholder="Search" aria-label="search">
+            <button type="submit" class="btn btn-danger">Search</button>
+        </form>
     </div>
+
+    <!-- <div class="input-group mb-3 d-flex-row justify-content-end flex-row-reverse">
+        <input type="text" class="form-control" aria-describedby="basic-addon2">
+        <div class="input-group-append flex-row-reverse justify-content-start">
+
+            <span class="input-group-text" id="basic-addon2">Search</span>
+            <button type="button" class="btn btn-danger">Search</button>
+        </div>
+    </div> -->
 
     <section id="contact-section">
         <div class="container">
-            <h1>Support</h1>
+            <div class="row">
+                <div class="col-12 d-flex-row justify-content-end">
+                    <h1>Support</h1>
+                </div>
 
-            <h3>Order Issues
-                <i class="fas fa-question"></i>
-            </h3>
+                <!-- <div class="col-6">
+                    <h4>Order Issues
+                        <i class="fas fa-question"></i>
+                    </h4>
+                </div>
 
-            <h3>Product information
-                <i class="fas fa-info"></i>
-            </h3>
+                <div class="col-6">
+                    <h4>Product information
+                        <i class="fas fa-info"></i>
+                    </h4>
+                </div> -->
+            </div>
+        </div>
 
+        <form class="form">
             <h3>Submit a Request </h3>
-            <form>
-                <div class="form-group">
-                    <label for="exampleFormControlInput1">Your Email Address*</label>
-                    <input type="email" class="form-control" id="exampleFormControlInput1">
+            <div class="form-group">
+                <label for="exampleFormControlInput1">Your Email Address*</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1">
+            </div>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">First name</span>
                 </div>
-                <div class="input-group">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text">First name</span>
-                    </div>
-                    <input type="text" aria-label="First name" class="form-control">
+                <input type="text" aria-label="First name" class="form-control">
+            </div>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">Order ID Number*</span>
                 </div>
-                <div class="input-group">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text">Order ID Number*</span>
-                    </div>
-                    <input type="text" aria-label="First name" class="form-control">
+                <input type="text" aria-label="First name" class="form-control">
+            </div>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">Product Name*</span>
                 </div>
-                <div class="input-group">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text">Product Name*</span>
-                    </div>
-                    <input type="text" aria-label="First name" class="form-control">
-                </div>
+                <input type="text" aria-label="First name" class="form-control">
+            </div>
 
-                <div class="form-group">
-                    <label for="exampleFormControlSelect1">What is the nature of your enquiry?*</label>
-                    <select class="form-control" id="exampleFormControlSelect1">
-                        <option>General enquiry</option>
-                        <option>My payment is being declined</option>
-                        <option>I have not recieved my confirmation email </option>
-                        <option>There is a fault with my Product</option>
-                        <option>My payment is being declined</option>
-                        <option>I have recieved the wrong item</option>
-                        <option>My tracking number is not working</option>
-                    </select>
-                </div>
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">What is the nature of your enquiry?*</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                    <option>General enquiry</option>
+                    <option>My payment is being declined</option>
+                    <option>I have not recieved my confirmation email </option>
+                    <option>There is a fault with my Product</option>
+                    <option>My payment is being declined</option>
+                    <option>I have recieved the wrong item</option>
+                    <option>My tracking number is not working</option>
+                </select>
+            </div>
 
-                <div class="form-group">
-                    <label for="exampleFormControlTextarea1">Your Description*</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
-                </div>
-                <button type="button" class="btn btn-dark">Submit</button>
-            </form>
+            <div class="form-group">
+                <label for="exampleFormControlTextarea1">Your Description*</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+            </div>
+            <button type="button" class="btn btn-danger">Submit</button>
+        </form>
         </div>
     </section>
 
-    
-   <footer class="footer">
+    <!-- Footer -->
+    <footer class="footer">
         <div class="container.fluid">
             <div class="row">
                 <div class="col-4">
@@ -147,9 +165,9 @@
                     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                 </div>
                 <div class="col-4">
-                        <i class="fab fa-instagram"></i>
-                        <a href="https://www.instagram.com/jonnybones/" target="_blank"> @JonnyBones
-                        </a>
+                    <i class="fab fa-instagram"></i>
+                    <a href="https://www.instagram.com/jonnybones/" target="_blank"> @JonnyBones
+                    </a>
                 </div>
                 <div class="col-4">
                     Support
@@ -160,9 +178,9 @@
                     <button type="button" class="btn btn-danger btn-lg">Subscribe</button>
                 </div>
                 <div class="col-4">
-                        <i class="fab fa-twitter"></i>
-                        <a href="https://twitter.com/JonnyBones" target="_blank"> @JonnyBones
-                        </a>
+                    <i class="fab fa-twitter"></i>
+                    <a href="https://twitter.com/JonnyBones" target="_blank"> @JonnyBones
+                    </a>
                 </div>
                 <div class="col-4">
                     Product Information
@@ -176,4 +194,5 @@
         </div>
     </footer>
 </body>
+
 </html>

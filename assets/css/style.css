@@ -46,11 +46,16 @@ body {
     font-family: 'Homemade Apple', cursive;
 }
 
-.responsive-container {
+.responsive-container.fluid {
     position: relative;
     width: 100%;
     height: 100%;
 }
+
+/* .responsive-container.fluid {
+    width: 100%;
+    height: 400;
+} */
 
 ----------------------------------------------------------------/* UFC Page */----------------------------------------------------------------------
 
@@ -96,6 +101,12 @@ tr:nth-child(even){
 
 .input-group-text {
     word-spacing: 5px;
+}
+
+.form {
+    width: 50%;
+    padding:20px;
+    margin: auto;
 }
 
 ---------------------------------------------/* Footer */------------------------------
