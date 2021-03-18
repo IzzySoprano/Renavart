@@ -112,11 +112,15 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 - Have trouble understanding how to section content using the Bootstrap Grid System
 - Added a CSS Animation section to my UFC page, however, it's not fully embedded and responsive.
 - After my first initial deployment, the links were'nt working responsibly 
-- As I'd like two carousels, my buttons for the second carosuel aren't responding. I've tried changing the id.
+- As I'd like two carousels, my buttons for the second carosuel aren't responding. I've tried changing the id but still won't repsond 
 
 #Bugs
 
-#
+- My second carousel buttons aren't responding correctly
+
+### What I did to fix them
+
+- Changed id 
 
 ### Deployment
 
