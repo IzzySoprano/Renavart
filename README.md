@@ -115,9 +115,23 @@ The purpose of this project is to create a website for **UFC fighter Jon Jones**
 
 ### Deployment
 
-GitHub Pages ~(https://izzysoprano.github.io/Jon-Jones/)
+GitHub Pages
 
 ### Credits
+
+## Photos
+
+Carousel 
+- https://www.mmafighting.com/
+-https://www.mmafighting.com/2015/1/3/7487711/ufc-182-photos#ufc-182-photos
+
+
+Logo
+-https://www.teepublic.com/pin/7526557-jon-bones-jones
+
+Info
+UFC Foght record
+-http://ufcstats.com/fighter-details/07f72a2a7591b409
 
 Mentor
 Slack community
