@@ -52,11 +52,6 @@ body {
     height: 100%;
 }
 
-/* .responsive-container.fluid {
-    width: 100%;
-    height: 400;
-} */
-
 ----------------------------------------------------------------/* UFC Page */----------------------------------------------------------------------
 
 /* Video Section */
@@ -110,8 +105,13 @@ tr:nth-child(even){
 }
 
 ---------------------------------------------/* Footer */------------------------------
-
 .footer {
     height: 100px;
     justify-content: center;
     align-items: center;
+}
+
+.main-footer {
+    color: red;
+    background-color: #F5F5F5;
+}
