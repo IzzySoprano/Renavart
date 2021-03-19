@@ -65,24 +65,23 @@
 
 
     <!-- Main Image -->
-    <div class="container d-flex justify-content-center my-5">
-        <!-- Drawing image row  -->
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-12">
-                <img class="drawing-image responsive" src="assets/img/JJ-Drawing.jpg" height="500" width="800"
+            <div class="col-12 d-flex justify-content-center align-items-center flex-column my-5">
+                <img class="main-image" src="assets/img/jj_main_image_376x450.png"
                     alt="Jon Jones drawing">
-                <p> “Believe in yourself. Believe in your heart and once you get there, don’t slow down” - </p>
-                <div class="signature"> Jon Jones
-                </div>
+                <p> “Believe in yourself. Believe in your heart and once you get there, don’t slow down” </p>
+                <span class="signature"> - Jon Jones
+                </span>
             </div>
-        </div>
+        </div> 
     </div>
 
     <!-- About -->
-    <div class="container.fluid">
+    <div class="container-fluid">
         <!-- caption video row  -->
         <div class="row mb-5">
-            <div class="col-6">
+            <div class="col-12 col-xl-6">
                 <h3>About</h3>
                 <p> Jon Jones is widely considered one of the greatest mixed martial artists of all time who has
                     dominated the UFC over the last decade. Famous as an unorthodox fighter not afraid to use
@@ -114,9 +113,9 @@
             </div>
 
             <!-- Highlights Video -->
-            <div class="col-6">
+            <div class="col-12 col-xl-6">
                 <h3>Highlights</h3>
-                <div class="responsive-container.fluid">
+                <div class="responsive-container">
                     <iframe class="responsive-iframe" width="100%" height="400"
                         src="https://www.youtube.com/embed/VXvg4ioc0wQ" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -127,9 +126,9 @@
     </div>
 
     <!-- Interview Video -->
-    <div class="container.fluid">
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-6">
+            <div class="col-12 col-xl-6">
                 <h3> Interview </h3>
                 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Rt9l33XnldE" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -145,9 +144,8 @@
                     Israel
                     Adesanya and (32:33​) how he initially got into MMA.</p>
             </div>
-
             <!-- Title Defences Video -->
-            <div class="col-6">
+            <div class="col-12 col-xl-6">
                 <h3> History of Jon Jones Title Defences</h3>
                 <iframe width="100%" height="400" src="https://www.youtube.com/embed/KzXA8kuQAwk" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -157,16 +155,16 @@
     </div>
 
     <!-- UFC Fight Record -->
-    <div class="container.fluid d-flex justify-content my-5">
+    <div class="container-fluid d-flex justify-content-center align-items-center my-5">
         <div class="row">
-            <div class="col">
+            <div class="col-12">
                 <section id="ufc-record">
-                    <h2>UFC Fight Record</h2>
-                    <table>
-                        <th> Win/Loss</th>
-                        <th> Fighter</th>
-                        <th> Event </th>
-                        <th> Date </th>
+                    <h2 class="fight-record-heading">UFC Fight Record</h2>
+                    <table class="ufc-record-table">
+                        <th class="ufc-record-header"> Win/Loss</th>
+                        <th class="ufc-record-header"> Fighter</th>
+                        <th class="ufc-record-header"> Event </th>
+                        <th class="ufc-record-header"> Date </th>
                         <tr>
                             <td> Win </td>
                             <td> vs. Dominick Reyes </td>
@@ -201,7 +199,7 @@
                             <td> Win </td>
                             <td> vs. Ovince Saint Preux </td>
                             <td> UFC 197: Jones vs Saint Preux </td>
-                            <td> Feb 08 2020</td>
+                            <td> Feb 08 2016</td>
                         </tr>
                         <tr>
                             <td> Win </td>
@@ -297,21 +295,17 @@
                             <td> Win </td>
                             <td> vs. Andre Gusmao</td>
                             <td> UFC 87: Seek and Destroy</td>
-                            <td> August 9 1008</td>
+                            <td> August 9 2008</td>
                         </tr>
                     </table>
                 </section>
-
-                <div class="col">
-                    <img src="assets/img/JJ-Photoshoot.png" alt="Champion">
-                </div>
             </div>
         </div>
     </div>
 
     <!-- Footer -->
     <footer class="footer">
-        <div class="container.fluid main-footer">
+        <div class="container-fluid main-footer">
             <div class="row">
                 <div class="col-4">
                     <h4>Newsletter</h4>
