@@ -134,6 +134,9 @@ Carousel
 - https://www.mmafighting.com/
 -https://www.mmafighting.com/2015/1/3/7487711/ufc-182-photos#ufc-182-photos
 
+Shop
+-https://ufcstore.eu/collections/jon-jones
+
 
 Logo
 -https://www.teepublic.com/pin/7526557-jon-bones-jones
