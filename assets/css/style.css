@@ -142,9 +142,6 @@ table, th, td {
     height: 100px;
     justify-content: center;
     align-items: center;
-}
-
-.main-footer {
-    color: black
-    background-color: white;
+    background-color: black;
+    color: black;
 }
