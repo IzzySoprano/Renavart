@@ -145,3 +145,66 @@ table, th, td {
     background-color: black;
     color: black;
 }
+
+.footer-container {
+    display: grid;
+    grid: 180px 80px / repeat(3, 1fr);
+    grid-template-areas:
+    "newsletter social contact"
+    "copyright copyright copyright"
+    ;
+}
+
+.newsletter {
+    display: grid;
+    grid-area: newsletter;
+}
+
+.subscribe-field {
+    display: grid;
+    justify-self: center;
+}
+
+#tick-box {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-self: center;
+}
+
+.social {
+    display: grid;
+    grid-area: social;
+    text-align: center;
+}
+
+.contact {
+    display: grid;
+    grid-area: contact;
+}
+
+.newsletter h4, .social h4, .contact h4 {
+    text-align: center;
+}
+
+.social-list, .contact-list {
+    list-style-type: none;
+    text-align: center;
+}
+
+.contact-list li {
+    font-size: 120%;
+}
+
+.copyright {
+    display: grid;
+    grid-area: copyright;
+    place-content: center center;
+    background-color: black;
+    text-align: center;
+}
+
+.copyright i {
+    font-size: 120%;
+    color: white;
+    list-style: none;
+}
