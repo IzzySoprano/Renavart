@@ -15,13 +15,15 @@ body {
 /* Nav-Bar */
 
 .logo {
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     padding: 0 0 1rem;
 }
 
 .navbar {
     padding: 0 0 0.2rem;
+    background-color: black;
+    color: white;
 }
 
 .nav-item {
@@ -32,6 +34,11 @@ body {
     font-size: 1rem;
     font-family: 'Ubantu', sans-serif;
     font-weight: 500;
+}
+
+#navbarNav .nav-link {
+    /* color: #ffb31a; */
+    color:#e69900;
 }
 
 /* ---------- Home Page ----------- */
@@ -169,6 +176,7 @@ table, th, td {
     padding-top: 10px;
     padding-bottom: 10px;
     justify-self: center;
+    cursor: pointer;
 }
 
 .social {
@@ -193,18 +201,24 @@ table, th, td {
 
 .contact-list li {
     font-size: 120%;
+    flex-direction: row;
 }
 
 .copyright {
-    display: grid;
+    display: flex;
     grid-area: copyright;
+    align-items: center;
     place-content: center center;
     background-color: black;
     text-align: center;
+    flex-direction: row;
+    color: #fafafa;
+    padding-top: 15px;
 }
 
 .copyright i {
     font-size: 120%;
+    margin: 25px;
     color: white;
     list-style: none;
 }
