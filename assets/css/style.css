@@ -37,7 +37,9 @@ body {
 }
 
 #navbarNav .nav-link {
-    /* color: #ffb31a; */
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-style: thin;
     color:#e69900;
 }
 
@@ -55,18 +57,39 @@ body {
     min-height: 80vh;
 }
 
+/* Video */
+
+.responsive-iframe{
+    position: relative;
+    width: 100%;
+    height: 400px;
+}
+
+.responsive-video {
+    position: relative;
+    width: 1000px;
+    height: 500px;
+    padding:5%;
+    padding-top: 10px;
+}
+
 /* Text */
+
+h3 {
+   font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-style: bold;
+    }
+
+.About-Font {
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-style: thin;
+}
 
 .signature {
     font-family: 'Homemade Apple', cursive;
 }
-
-.responsive-container{
-    position: relative;
-    width: 100%;
-    height: 100%;
-}
-
 
 /* UFC Record Table */
 /* ufc-record background style code done with help from John Traas */ 
