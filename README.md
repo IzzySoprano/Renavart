@@ -2,7 +2,7 @@
 
 ![image](https://bucket.mn2s.com/wp-content/uploads/2019/04/18175044/Jon-Jones-mn2s.png)
 
-Live Site https://izzysoprano.github.io/Jon-Jones/
+https://izzysoprano.github.io/Jon-Jones/
 
 ## Contents ##
 
@@ -129,7 +129,6 @@ GitHub Pages
 ### Credits
 
 ## Photos
-
 Carousel 
 - https://www.mmafighting.com/
 -https://www.mmafighting.com/2015/1/3/7487711/ufc-182-photos#ufc-182-photos
@@ -137,9 +136,11 @@ Carousel
 Shop
 -https://ufcstore.eu/collections/jon-jones
 
+Text
+https://bleacherreport.com/articles/2311515-jon-jones-vs-daniel-cormier-complete-timeline-of-their-beef - Scott Harris
 
 Logo
--https://www.teepublic.com/pin/7526557-jon-bones-jones
+-https://www.teepublic.com/pin/9736373-jon-bones-jones
 
 Info
 UFC Foght record
