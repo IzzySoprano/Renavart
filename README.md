@@ -128,18 +128,19 @@ GitHub Pages
 
 ## Photos
 
-Shop
--https://ufcstore.eu/collections/jon-jones
-
-Text
-https://bleacherreport.com/articles/2311515-jon-jones-vs-daniel-cormier-complete-timeline-of-their-beef - Scott Harris
-
 Logo
 -https://www.teepublic.com/pin/9736373-jon-bones-jones
 
+Drawing
+-https://www.artstation.com/artwork/VgdGdP
+
+Shop Images
+-https://ufcstore.eu/collections/jon-jones
+
 Info
-UFC Foght record
+UFC Fight record
 -http://ufcstats.com/fighter-details/07f72a2a7591b409
 
 Mentor
+
 Slack community
