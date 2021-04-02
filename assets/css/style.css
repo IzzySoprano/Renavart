@@ -35,9 +35,7 @@ body {
     width: 0;
     width: 0px;
     height: 2px;
-    background: #fff;
-    width: .3s width;
-
+    background: #A98F31;
 }
 
 .nav-item:hover a::after{
@@ -54,7 +52,7 @@ body {
 #navbarNav .nav-link {
     font-family: 'Lato', sans-serif;
     font-weight: 500;
-    font-style: thin;
+    font-style: oblique;
     color:#A98F31;
 }
 
@@ -95,13 +93,11 @@ body {
 h3 {
     font-family: 'Lato', sans-serif;
     font-weight: 900;
-    font-style: bold;
     }
 
 .About-Font {
     font-family: 'Lato', sans-serif;
     font-weight: 500;
-    font-style: thin;
 }
 
 .signature {
