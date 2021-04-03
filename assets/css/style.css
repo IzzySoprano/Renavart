@@ -1,6 +1,5 @@
 /*@import*/
 
-
 * {
     margin: 0;
     padding: 0;
@@ -158,10 +157,6 @@ table, th, td {
 
 -------------------------------------/*Shop */---------------------------------------
 
-.shopping-cart .row i {
-    cursor: pointer;
-}
-
 .img-hs {
     font-family: 'Bowlby One SC', cursive;
 }
@@ -171,21 +166,7 @@ table, th, td {
     height: fit-content;
 }
 
-/* Credit to W3 Schools - How TO - Zoom on Hover */
-.card .card-img-top {
-    transition: transform .2s; /* Animation */
-    width: 250px;
-    height: 250px;
-    margin: 0 auto;
-}
-
-.card:hover{
-     transform: scale(1.5); 
-     width: 50px;
-     height: 50px;
-}
-
-/* Credit to Brian Design */
+ /* Credit to Brian Design */
 
 .btn {
     width: 100px;
@@ -215,7 +196,7 @@ table, th, td {
     padding: 10px;
 }
 
-.card{
+.card {
     outline: none;
     border: none;
 }
@@ -228,6 +209,12 @@ table, th, td {
 
 /* ----------------------------------Contact---------------------------------------- */
 
+
+/* #contact-section {
+    margin: 10px;
+    padding: 10px;
+} */
+
 .input-group-text {
     word-spacing: 5px;
 }
@@ -238,6 +225,10 @@ table, th, td {
     margin: auto;
 }
 
+.form-group {
+    margin: 10px 25px 25px;
+    padding: 5px;;
+}
 ------------------------------------/* Footer */------------------------------
 
 .footer {
