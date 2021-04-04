@@ -62,13 +62,13 @@ The purpose of this project is to create a fan website for **UFC fighter Jon Jon
 #### Colours
 - Have a black/white/orange theme that gives a consistent theme 
 
-![image](https://coolors.co/fafafa-000000-a98f31)
+![image](https://coolors.co/fafafa-000000-a98f31.png)
 
 #### Typography
 
-**Lato font family** (Google Fonts)
-**Homemade Apple** (Google Fonts) - will be used for the signature in the index page
-**Apple System**
+- **Lato font family** (Google Fonts)
+- **Homemade Apple** (Google Fonts) - will be used for the signature in the index page
+- **Apple System**
 
 #### Images
 - The index page will have a drawing of Jon Jones as the face of the page to in order to set the tone of the overall site
@@ -122,6 +122,9 @@ The purpose of this project is to create a fan website for **UFC fighter Jon Jon
 
 
 7. [Dev Tools]
+
+
+8. [Coolers]
 
 
 |-----------------------------------------------------------------------------|
