@@ -50,19 +50,20 @@ The purpose of this project is to create a fan website for **UFC fighter Jon Jon
 - Have a consistent navigation menu throughout all webpages
 
 ## 4. Skeleton
-- [Wireframes]()
-- Set a fixed navigation menu
+- Set a navigation menu using Bootstrap
 - Have a **Home, Shop and Contact page**
-- Footer section that has links to Jon Jone's social accounts
+- Footer section that has links to Jon Jones social accounts
+- The tick icon in the Newsletter footer section will not be a responsive link
+- The 'Add to Cart' and 'Details' buttons in the shop menu will not be responsive links
 
 ## 5. Surface
 
 ### Design
 
 #### Colours
-- Have a black/white/orange theme
+- Black/white/orange theme
 
-![image](https://coolors.co/fafafa-000000-a98f31.jpg)
+![coolor palette](assets/img/CP.png)
 
 #### Typography
 
@@ -143,7 +144,7 @@ Understanding Flexbox, Bootstrap Grid
 
 #Bugs
 
-- Mainly issues with understanding content 
+-My color palette image wouldn't be displyed in my README
 
 ### Deployment
 
