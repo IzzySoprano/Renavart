@@ -62,7 +62,7 @@ The purpose of this project is to create a fan website for **UFC fighter Jon Jon
 ### Design
 
 #### Colours
-- Black/white/orange theme
+- Black/white/gold theme
 
 ![coolor palette](assets/img/CP.png)
 
