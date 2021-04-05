@@ -150,15 +150,15 @@ CSS/Bootstrap
 1. Logged on to github and opened my repository Log in GitHub and open the repository
 2. From here clicked settings, see picture below.
 
-![Screenshot](assets/img/Github Deploy/Screenshot (103).png)
+![Deploy-1](assets/img/Github Deploy/Deploy-1.png)
 
 3. In settings scrolled down to Github pages, here under source branch I selected Master and kept the default root and then clicked save.
 
-![Screenshot](assets/img/Github Deploy/Screenshot (102).png)
+![Deploy-2](assets/img/Github Deploy/Deploy-2.png)
 
 4. The page is now published and the site address is available in the github page section.
 
-![Screenshot](assets/img/Github Deploy/Screenshot (101).png)
+![Deploy-3](assets/img/Github Deploy/Deploy-3.png)
 
 # Credits
 
