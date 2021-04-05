@@ -187,7 +187,7 @@ Brian Design - [CSS Button Hover Animation Effects using Only HTML & CSS](https:
 Dani Krossing - [Tables In HTML and CSS | How To Create Tables | Learn HTML and CSS | HTML Tutorial | CSS Tutorial](https://www.youtube.com/watch?v=dK27jWKtJxs)
 
 A massive thanks to both John and Jim for helping me get through my first project
-* 
+
 [John Traas](https://github.com/Jays-T)
 
 [Jim Lynx](https://github.com/JimLynx)
